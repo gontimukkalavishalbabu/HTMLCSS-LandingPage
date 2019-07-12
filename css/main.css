@@ -207,7 +207,7 @@ section { display: flex; }
 .full-banner-sidebar > div:nth-of-type(2) {
     font-size: 25px;
     font-weight: 200;
-    line-height: 3px;
+    letter-spacing: 3px;
 }
 .full-banner-sidebar .btn.btn-default {
     margin-top: 50px;
